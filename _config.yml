@@ -3,8 +3,8 @@ title: Onderwijs Innovatietraject Design Thinking
 subtitle: door Arteveldehogeschool Gent
 email: info@arteveldehs.be
 description: Projectwebsite OIT 2018 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stanseel.github.io/hcd" # the base hostname & protocol for your site
+baseurl: "/design-meets-research" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 author:
 
 # Social settings
