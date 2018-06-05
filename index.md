@@ -5,7 +5,7 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Erat lacinia</h2>
+		<h2>Jonas heeft dit gedaan \o/</h2>
 	</header>
 	<div class="features">
 		<article>
