@@ -17,7 +17,7 @@
           </header>
           <ul>
             <li><a href="{{ '/' | absolute_url }}">Homepage</a></li>
-            <li><a href="{{ 'scope.html' | absolute_url }}">Scope</a></li>
+            <li><a href="{{ '/scope' | absolute_url }}">Scope</a></li>
             <li><a href="{{ 'intro.html' | absolute_url }}">Methodologie</a></li>
             <li>
               <span class="opener">Onderzoek</span>
@@ -43,8 +43,8 @@
         </nav>
 
       <!-- Section -->
-        <section>
-          <!-- <header class="major">
+        <!-- <section>
+          <header class="major">
             <h2>Need inspiration?</h2>
           </header>
           <div class="mini-posts">
@@ -63,10 +63,10 @@
           </div>
           <ul class="actions">
             <li><a href="#" class="button">More</a></li>
-          </ul>-->
-        </section>
+          </ul>
+        </section>-->
 
-      <!-- Section -->
+      <!-- Section 
         <section>
           <header class="major">
             <h2>Neem contact op</h2>
@@ -77,10 +77,15 @@
             <li class="fa-home">{{ site.url }}</li>
           </ul>
         </section>
+        -->
 
       <!-- Footer -->
         <footer id="footer">
-          <p class="copyright">&copy; Arteveldehogeschool Gent</p>
+          <p class="copyright">
+            <a href="http://arteveldehogeschool.be" target="_blank">
+              <img src="{{ site.baseurl }}{% link /assets/images/ahs_logo_color_long.png%}" style="width: 100%; height: auto;">
+            </a>
+          </p>
 
           <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank"><!-- <img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /> --></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Naamsvermelding-NietCommercieel 4.0 Internationaal-licentie</a>.
         </footer>

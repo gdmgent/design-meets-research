@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scope
-image: assets/images/pic11.jpg
+permalink: scope/
 ---
 <h2>Samenvatting van het project</h2>
 <p>De wereld is momenteel in transitie. Digitale media zijn bronnen van disruptie die bestaande modellen en structuren overhoop gooien. Om in die veranderende wereld blijvend betekenisvolle oplossingen voor problemen te kunnen produceren zijn we meer dan ooit genoodzaakt de mens/gebruiker centraal te zetten. Interdisciplinaire teams ontwerpen vandaag de dag nieuwe producten en diensten op maat van de gebruiker via collaboratieve processen. Deze “ontwerpmentaliteit” waarbij de gebruiker centraal staat wordt ook wel Design Thinking genoemd.</p>
