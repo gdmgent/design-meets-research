@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Introductie
+title: Intro to Human Centered Design (HCD)
 image: assets/images/pic11.jpg
 permalink: intro/
 ---
-
-## Intro to Human Centered Design (HCD)
 
 ## Mindsets
 
