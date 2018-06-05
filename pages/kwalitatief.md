@@ -3,21 +3,48 @@ layout: page
 title: Kwalitatief
 permalink: kwalitatief/
 ---
-##Research Output kwalitatief onderzoek
+## Research Output kwalitatief onderzoek
 <img src="../assets/images/tmp-empathymap.jpg" alt="interview downloads" style="width:100%" />
 <div class="row 200%">
     <div class="6u 12u$(medium)">
-    ###Empathy maps voor eerste-, tweede- en derdejaar student
+    <h3>Empathy maps voor eerste-, tweede- en derdejaar student</h3>
     
-    <p>De wereld is momenteel in transitie. Digitale media zijn bronnen van disruptie die bestaande modellen, structuren en verwachtingspatronen overhoop gooien. Om in die veranderende wereld blijvend betekenisvolle oplossingen voor problemen te kunnen produceren zijn we meer dan ooit genoodzaakt de mens/gebruiker centraal te zetten. Interdisciplinaire teams ontwerpen vandaag de dag nieuwe producten en diensten op maat van de gebruiker via collaboratieve processen. Deze “ontwerpmentaliteit” waarbij de gebruiker centraal staat wordt ook wel Design Thinking genoemd.</p>
+    <p>De 'Empathy Map' is een concept dat ons helpt om dieper inzicht te krijgen in de belevingswereld van de studenten. Wanneer de Empathy Map met de juiste informatie wordt gevuld, stelt het ons in staat om betere waardeproposities te maken, betere manieren te vinden om studenten te bereiken en een effectievere 'customer relationship' met onze studenten op te bouwen.</p>
 
-    <p>Deze onderzoeks- en ontwikkelingsmethodologie kent derhalve een enorme opmars in de creatieve industrie en wordt steeds vaker ingezet bij het bedenken en ontwikkelen van communicatiecampagnes, print- en digitale media, software, gebruikersinterfaces enz. Steeds vaker worden de principes van Design Thinking ook ingezet om te innoveren op andere domeinen, bijv. bij de ontwikkeling van gebruiksvriendelijke ruimtes en gebouwen of zelfs (eco)systemen zoals Smart Cities.</p> 
+    <h4>Het invullen van de Empathy Map deden we aan de hand van vier vragen.</h4> 
 
-    <p>Deze "creatieve manier van problem solving" heeft zijn nut reeds meermaals bewezen en blijkt uiterst relevant te zijn voor productontwikkeling in een complexe en snel veranderende omgeving zoals die van de grafische en digitale industrie waar 3D printing, augmented en virtual reality, artificiële intelligentie, chatbots, 'internet of things',... geëvolueerd zijn vanuit de science fiction naar de dagelijkse realiteit. </p> 
+    <strong>Vraag 1: wat denkt en voelt de student?</strong>
+    Bij het schetsen van de mening van de student ga je dieper in op wat de student denkt en voelt. Je probeert dit te achterhalen door een zo breed mogelijke vraagstelling zodat antwoorden spontaan komen en niet (onbewust) door de interviewer gestuurd worden. 
+    
+    <h4>Denk aan vragen als</h4>
+    <ul>
+    <li>wat beweegt de student?</li>
+    <li>welke emoties voelt de student?</li>
+    </ul>
 
-    <p>Design Thinking kan ook worden ingezet voor het 'ontwerpen' van onderwijsprocessen waarbij de leerbehoeften en verwerking van de eindgebruiker, in dit geval de studenten dus, centraal staan.</p>  
+    <h4>Vraag 2: wat hoort de gebruiker?<h4>
+Wat de gebruiker hoort heeft betrekking op de invloed die de omgeving heeft op de gebruiker.
+Denk aan vragen als
 
-    <p>Voor GDM is Design Thinking in het bijzonder relevant niet alleen omdat het aansluit bij een nieuwe trend in het werkveld, maar dus ook omdat het kan aangewend worden om creatieve en efficiënte oplossingen te ontwikkelen voor onderwijs, onderzoek en dienstverlening</p> 
+welke kanalen zijn invloedrijk?
+door wie wordt de gebruiker werkelijk beïnvloed?
+in welke mate luistert de gebruiker wat een vriend of familielid zegt?
+Vraag 3: wat ziet de gebruiker?
+Bij het achterhalen wat de gebruiker ziet, wordt het milieu waarin de gebruiker leeft nader bekeken.
+Denk na over de volgende vragen:
+
+door wie wordt de gebruiker omringd?
+wie zijn de vrienden van de gebruiker?
+aan welk soort aanbiedingen wordt de gebruiker dagelijks blootgesteld?
+welke problemen ontmoet de gebruiker?
+Vraag 4: wat zegt en doet de gebruiker?
+Naast het achterhalen van gedachten en gevoelens, dien je ook inzicht te verwerven in wat de gebruiker zegt en doet.
+Denk na over vragen als:
+
+wat zou de gebruiker kunnen vertellen aan anderen?
+welke houding zou de gebruiker kunnen aannemen?
+hoe zou de gebruiker zich in het publiek kunnen gedragen?
+Van belang bij deze vraag is ook om te achterhalen waar de spanning zit tussen wat een klant zegt en doet en wat deze klant denkt en voelt.</p> 
     </div>
     
     <div class="6u$ 12u$(medium)">
