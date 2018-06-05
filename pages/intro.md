@@ -4,6 +4,10 @@ title: Intro to Human Centered Design (HCD)
 image: assets/images/pic11.jpg
 permalink: intro/
 ---
+## Methodologie 
+(nog te vertalen) The methodology used for this educational innovation and design project equals the methodology that we will implement in our curriculum.  
+
+Design thinking is a human-centered approach to innovation. Once restricted to the designer's toolkit it has now become mainstream to integrate the needs of people, the possibilities of technology, and the requirements for business success. Design thinking is also a mindset and approach to learning, collaboration, and problem solving in the classroom. In practice, the design process is a structured framework for identifying challenges, gathering information, generating potential solutions, refining ideas, and testing solutions. Design thinking can be flexibly implemented; serving equally well as a framework for a course design, a roadmap for an activity or group project. 
 
 ## Mindsets
 
