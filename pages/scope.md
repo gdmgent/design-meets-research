@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Scope
-image: assets/images/pic11.jpg
 permalink: scope/
 ---
 <h2>Samenvatting van het project</h2>
