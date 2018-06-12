@@ -27,11 +27,11 @@ permalink: kwalitatief/
     <strong>Denk aan vragen als</strong>
     <ul>
     <li>welke kanalen zijn invloedrijk?</li>
-    <li>door wie wordt de student werkelijk beïnvloed?/li>
+    <li>door wie wordt de student werkelijk beïnvloed?</li>
     <li>in welke mate luistert de student naar wat een vriend/vriendin zegt?</li>
     </ul>
 
-    <h4>Vraag 3: wat ziet de student?</4>
+    <h4>Vraag 3: wat ziet de student?</h4>
     Bij het achterhalen wat de student ziet, wordt het milieu waarin de student leeft onder de loep genomen.
 
     <strong>Denk aan vragen als</strong>
