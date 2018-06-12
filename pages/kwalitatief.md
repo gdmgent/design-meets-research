@@ -7,7 +7,7 @@ permalink: kwalitatief/
 <img src="../assets/images/tmp-empathymap.jpg" alt="interview downloads" style="width:100%" />
 <div class="row 200%">
     <div class="6u 12u$(medium)">
-    <h2>Empathy maps opstellen met input van eerste-, tweede- en derdejaar student</h2>
+    <h2>Empathy maps opstellen met input van eerste-, tweede- en derdejaarsstudent</h2>
     
     <p>De 'Empathy Map' is een concept dat ons helpt om dieper inzicht te krijgen in de belevingswereld van de studenten. Wanneer de Empathy Map met de juiste informatie wordt gevuld, stelt het ons in staat om betere waardeproposities te maken, betere manieren te vinden om studenten te bereiken en een effectievere 'customer relationship' met onze studenten op te bouwen.</p>
 
@@ -48,16 +48,22 @@ permalink: kwalitatief/
 
     <strong>Denk na over vragen als:</strong>
     <ul>
-    <li>wat zou de gebruiker kunnen vertellen aan anderen?</li>
-    <li>welke houding zou de gebruiker kunnen aannemen?</li>
-    <li>hoe zou de gebruiker zich in het publiek kunnen gedragen?</li>
+    <li>wat zou de student kunnen vertellen aan anderen?</li>
+    <li>welke houding zou de student kunnen aannemen?</li>
+    <li>hoe zou de student zich in het publiek kunnen gedragen?</li>
     <li>Van belang bij deze vraag is ook om te achterhalen waar de spanning zit tussen wat een klant zegt en doet en wat deze klant denkt en voelt.</li>
     </ul>
 
     </div>
     
     <div class="6u$ 12u$(medium)">
-    ###GEMS, insight statements & how-might-we questions
+    <h2>Gems</h2>
+    <p>De uitkomsten van de interviews die het team organiseerde met stakeholders van de opleiding (werkveld, collega's en studenten) werden gegroepeerd volgens thema (waar mogelijk). Het werd al snel duidelijk dat een aantal thema's meer 'gewicht' hadden dan andere. Die thema's omschrijven we als 'gems'. </p>
+
+    <img src="../assets/images/gems.jpg" alt="gems" style="width:100%" />
+
+   
+
     </div>
 </div>
 <hr class="major" />
