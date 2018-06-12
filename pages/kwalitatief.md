@@ -36,7 +36,7 @@ permalink: kwalitatief/
     <strong>Denk aan vragen als</strong>
     <ul>
     <li>door wie wordt de gebruiker omringd?</li>
-    <li>wie zijn de vrienden van de gebruiker?</li>
+    <li>wie zijn de vrienden van de student?</li>
     <li>aan welke invloeden wordt de student blootgesteld</li>
 
 Vraag 4: wat zegt en doet de gebruiker?
