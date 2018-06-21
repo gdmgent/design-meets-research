@@ -19,11 +19,10 @@ permalink: kwantitatief/
         <p>Beschrijf de inhoud van het OLOD.</p>
 
         <h4>Stap 2: Over het OLOD</h4>
-        <p>Beschrijf de inhoud van het OLOD.</p>
-        <strong>Wat is het doel van het OLOD?</strong>
+        <p>Wat is het doel van het OLOD?</p>
     
         <h4>Stap 3: mindsets</h4>
-        <p>Hoe scoort jouw OLOD op vlak van design thinking?<br>
+        <p>Hoe scoort jouw OLOD op vlak van design thinking?
         <ul>
         <li>Learn from failure (0-3)</li>
         <li>Make it (0-3)</li>
