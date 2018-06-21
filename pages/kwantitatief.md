@@ -24,14 +24,16 @@ permalink: kwantitatief/
     
         <h4>Stap 3: mindsets</h4>
         <p>Hoe scoort jouw OLOD op vlak van design thinking?<br>
-        <strong>Learn from failure (0-3)</strong><br>
-        <strong>Make it (0-3)</strong><br>
-        <strong>Creative confidence (0-3)</strong><br>
-        <strong>Empathy (0-3)</strong><br>
-        <strong>Ambiguity (0-3)</strong><br>
-        <strong>Optimism (0-3)</strong><br>
-        <strong>Incremental process (0-3)</strong><br>
-        <strong>Iterative process (0-3)</strong><br>
+        <ul>
+        <li>Learn from failure (0-3)</li>
+        <li>Make it (0-3)</li>
+        <li>Creative confidence (0-3)</li>
+        <li>Empathy (0-3)</li>
+        <li>Ambiguity (0-3)</li>
+        <li>Optimism (0-3)</li>
+        <li>Incremental process (0-3)</li>
+        <li>Iterative process (0-3)</li>
+        </ul>
         </p>
 
         <h4>Stap 4: gebruikte tools</h4>
