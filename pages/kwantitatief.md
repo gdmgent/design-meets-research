@@ -8,12 +8,10 @@ permalink: kwantitatief/
     <div class="6u 12u$(medium)">
         <h2>HCD Scan</h2>
         
-        <p>Het was belangrijk om inzicht te krijgen in hoeverre de Human Centered Design mindsets reeds aanwezig zijn binnen de opeleiding. Daarnaast willen we ook te weten komen waar die aanwezige mindsets en tools zitten. Hiervoor werd een bevraging gedaan aan de hand van een online vragenlijst bij de verantwoordelijken van elk OLOD.</p>
+        <p>Het is belangrijk om inzicht te krijgen in hoeverre de Human Centered Design mindsets en tools reeds aanwezig binnen de opeleiding. Daarnaast willen we ook te weten komen waar die aanwezige mindsets en tools zitten. Hiervoor werd een bevraging gedaan bij de verantwoordelijken van elk OLOD, aan de hand van een online vragenlijst.</p>
 
-        <h3>xxxx</h3> 
-
-        <h4>xxx</h4>
-        <p>xxx</p>
+        <h3>De vragen</h3> 
+        <p>Link google drive</p>
 
         </div>
     
