@@ -21,25 +21,35 @@ permalink: kwantitatief/
         <h4>Stap 2: Over het OLOD</h4>
         <p>Beschrijf de inhoud van het OLOD.</p>
         <strong>Wat is het doel van het OLOD?</strong>
-            <ul>
-            <li>Overbrengen en aanscherpen van vaardigheden</li>
-            <li>Iets maken voor de peers (docenten / studenten)</li>
-            <li>Iets maken voor een vooraf gedefinieerde eindgebruiker</li>
-            <li>Iets maken voor een nog niet gekende eindgebruiker (fictieve personen)</li>
-            <li>Iets maken voor een nog niet gekende eindgebruiker (student gaat op onderzoek, echte personen)</li>
-            </ul>
+    
         <h4>Stap 3: mindsets</h4>
         <p>Hoe scoort jouw OLOD op vlak van design thinking?</p>
         <strong>Learn from failure (0-3)</strong>
-            <ul>
-            <li>0: Nee, het eindresultaat telt.</li>
-            <li>3: Ja, het proces is de leerles.</li>
-            </ul>
+        <strong>Make it (0-3)</strong>
+        <strong>Creative confidence (0-3)</strong>
+        <strong>Empathy (0-3)</strong>
+        <strong>Ambiguity (0-3)</strong>
+        <strong>Optimism (0-3)</strong>
+        <strong>Incremental process (0-3)</strong>
+        <strong>Iterative process (0-3)</strong>
+
+        <h4>Stap 4: gebruikte tools</h4>
+        <strong>Onderzoek</strong>
+        <p>interview, customer journey, onderzoeksdagboek, analyse van data, literatuurstudie, etc...</p>
+        
+        <strong>Ideation</strong>
+        <p>brainstorm, moodboard, prototypes, storyboard, journey map, mockups, voorstudies, business model canvas, etc...</p>
+
+        <strong>Implementation</strong>
+        <p>Roadmap, measure and evaluate, eindproduct voor de markt, eindproduct blijft op school, etc...</p>
+        
+        <strong>Bekijk het formulier</strong>
+        <a href="https://docs.google.com/forms/d/1vSDCCXQLY58W19N_cgzrQ8mGs1izi26Sk7kHDJTrAEg/edit?usp=sharing" target="_blank">HCD scan Google Forms</a>
         </div>
     
     <div class="6u$ 12u$(medium)">
         <h2>Analyse data</h2>
-        <p>De data die gewonnen werd uit de bevraging wordt verwerkt in functie van visuele output.</p>
+        <p>De data die gewonnen werd uit de bevraging wordt verwerkt in functie van visuele output.(work in progress)</p>
 
         <img src="../assets/images/visualisatie-data.jpg" alt="HCD Scan" style="width:100%" />
     </div>
