@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kwalitatief
+title: Kwantitatief
 permalink: kwantitatief/
 ---
 ## Kwantitatief onderzoek
