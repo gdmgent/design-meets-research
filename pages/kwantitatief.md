@@ -28,8 +28,6 @@ permalink: kwantitatief/
             <li>Iets maken voor een nog niet gekende eindgebruiker (fictieve personen)</li>
             <li>Iets maken voor een nog niet gekende eindgebruiker (student gaat op onderzoek, echte personen)</li>
             </ul>
-        </div>
-
         <h4>Stap 3: mindsets</h4>
         <p>Hoe scoort jouw OLOD op vlak van design thinking?</p>
         <strong>Learn from failure (0-3)</strong>
