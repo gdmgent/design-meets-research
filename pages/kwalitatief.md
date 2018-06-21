@@ -3,7 +3,7 @@ layout: page
 title: Kwalitatief
 permalink: kwalitatief/
 ---
-## Research Output kwalitatief onderzoek
+## Methodes kwalitatief onderzoek
 <img src="../assets/images/tmp-empathymap.jpg" alt="interview downloads" style="width:100%" />
 <div class="row 200%">
     <div class="6u 12u$(medium)">
