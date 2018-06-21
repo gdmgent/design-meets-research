@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kwalitatief
-permalink: kwalitatief/
+permalink: kwantitatief/
 ---
 ## Kwantitatief onderzoek
 <div class="row 200%">
