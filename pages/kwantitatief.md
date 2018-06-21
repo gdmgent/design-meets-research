@@ -11,7 +11,7 @@ permalink: kwantitatief/
         <p>Het is belangrijk om inzicht te krijgen in hoeverre de Human Centered Design mindsets en tools reeds aanwezig binnen de opeleiding. Daarnaast willen we ook te weten komen waar die aanwezige mindsets en tools zitten. Hiervoor werd een bevraging gedaan bij de verantwoordelijken van elk OLOD, aan de hand van een online vragenlijst.</p>
 
         <h3>De vragen</h3> 
-        <h4>Over welk OLOD (opeleidingsonderdeel) gaat het?</h4>
+        <h4>Stap 0: Over welk OLOD (opeleidingsonderdeel) gaat het?</h4>
         <h4>Stap 1: Over Human Centered Design</h4>
         <p>Leg uit wat Human Centerd Design is. Vertel daarbij dat de scores geen waarde-oordeel inhouden.</p>
 
@@ -23,15 +23,16 @@ permalink: kwantitatief/
         <strong>Wat is het doel van het OLOD?</strong>
     
         <h4>Stap 3: mindsets</h4>
-        <p>Hoe scoort jouw OLOD op vlak van design thinking?</p>
-        <strong>Learn from failure (0-3)</strong>
-        <strong>Make it (0-3)</strong>
-        <strong>Creative confidence (0-3)</strong>
-        <strong>Empathy (0-3)</strong>
-        <strong>Ambiguity (0-3)</strong>
-        <strong>Optimism (0-3)</strong>
-        <strong>Incremental process (0-3)</strong>
-        <strong>Iterative process (0-3)</strong>
+        <p>Hoe scoort jouw OLOD op vlak van design thinking?<br>
+        <strong>Learn from failure (0-3)</strong><br>
+        <strong>Make it (0-3)</strong><br>
+        <strong>Creative confidence (0-3)</strong><br>
+        <strong>Empathy (0-3)</strong><br>
+        <strong>Ambiguity (0-3)</strong><br>
+        <strong>Optimism (0-3)</strong><br>
+        <strong>Incremental process (0-3)</strong><br>
+        <strong>Iterative process (0-3)</strong><br>
+        </p>
 
         <h4>Stap 4: gebruikte tools</h4>
         <strong>Onderzoek</strong>
