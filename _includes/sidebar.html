@@ -14,14 +14,12 @@
           <header class="major">
             <h2>Het onderzoek</h2>
           </header>
+
+          
           <ul>
-            <li><a href="{{ '/' | absolute_url }}">Introductie</a></li>
-            <li><a href="{{ '/scope' | absolute_url }}">Achtergrond</a></li>
-            <li><a href="{{ '/kwalitatief' | absolute_url }}">Kwalitatief onderzoek</a></li>
-            <li><a href="{{ '/kwantitatief' | absolute_url }}">Kwantitatief onderzoek</a></li>
-            <li><a href="{{ '/inzichten' | absolute_url }}">Inzichten</a></li>
-            <li><a href="{{ '/verbetering' | absolute_url }}">Ideeën tot verbetering</a></li>
-            <li><a href="{{ '/team' | absolute_url }}">Onderzoeksteam</a></li>
+{% for nav-item in site.data.nav-research %}
+<li{% if page.url contains nav-item.permalink %} class="active"{% endif %}><a href="{{ nav-item.permalink | absolute_url }}">{{ nav-item.name }}</a></li>
+{%- endfor %}    
 
           </ul>
 
@@ -29,13 +27,9 @@
             <h2>Methodologie &amp; tools</h2>
           </header>
           <ul>
-            <li><a href="{{ '/methodologie' | absolute_url }}">Human Centered Design</a></li>
-
-            <li><a href="{{ '/tools-discover' | absolute_url }}">Discover</a></li>
-            <li><a href="{{ '/tools-define' | absolute_url }}">Define</a></li>
-            <li><a href="{{ '/tools-ideate' | absolute_url }}">Ideate</a></li>
-            <li><a href="{{ '/tools-prototype' | absolute_url }}">Prototype</a></li>
-            
+{% for nav-item in site.data.nav-tools %}
+<li{% if page.url contains nav-item.permalink %} class="active"{% endif %}><a href="{{ nav-item.permalink | absolute_url }}">{{ nav-item.name }}</a></li>
+{%- endfor %}     
         </ul>
         </nav>
 
@@ -79,12 +73,12 @@
       <!-- Footer -->
         <footer id="footer">
           <p class="copyright">
-            <a href="http://arteveldehogeschool.be" target="_blank">
+            <a href="http://arteveldehogeschool.be" target="_blank" class="noborder">
               <img src="{{ site.baseurl }}{% link /assets/images/ahs_logo_color_long.png%}" style="width: 100%; height: auto;">
             </a>
           </p>
 
-          <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank"><!-- <img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /> --></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Naamsvermelding-NietCommercieel 4.0 Internationaal-licentie</a>.
+          <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank" class="noborder"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">Creative Commons Naamsvermelding-NietCommercieel 4.0 Internationaal-licentie</a>.
         </footer>
 
     </div>

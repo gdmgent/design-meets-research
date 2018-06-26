@@ -43,6 +43,9 @@
 				color: inherit;
 			}
 		}
+		&.noborder { 
+			border-bottom: none;
+		}
 	}
 
 	strong, b {
