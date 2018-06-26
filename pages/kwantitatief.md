@@ -8,10 +8,10 @@ permalink: kwantitatief/
     <div class="6u 12u$(medium)">
         <h2>HCD Scan</h2>
         
-        <p>Het is belangrijk om inzicht te krijgen in hoeverre de Human Centered Design mindsets en tools reeds aanwezig binnen de opeleiding. Daarnaast willen we ook te weten komen waar die aanwezige mindsets en tools zitten. Hiervoor werd een bevraging gedaan bij de verantwoordelijken van elk OLOD, aan de hand van een online vragenlijst.</p>
+        <p>Het is belangrijk om inzicht te krijgen in hoeverre de Human Centered Design mindsets en tools reeds aanwezig zijn binnen de opleiding. Daarnaast willen we ook te weten komen waar die aanwezige mindsets en tools zitten. Hiervoor werd een bevraging gedaan bij de verantwoordelijken van elk opleidingsonderdeel (OLOD), aan de hand van een online vragenlijst.</p>
 
         <h3>De vragen</h3> 
-        <h4>Stap 0: Over welk OLOD (opeleidingsonderdeel) gaat het?</h4>
+        <h4>Stap 0: Over welk OLOD gaat het?</h4>
         <h4>Stap 1: Over Human Centered Design</h4>
         <p>Leg uit wat Human Centerd Design is. Vertel daarbij dat de scores geen waarde-oordeel inhouden.</p>
 
