@@ -88,10 +88,10 @@
 
 			// Inactive by default on <= large.
 				skel
-					.on('+large', function() {
+					.on('+medium', function() {
 						$sidebar.addClass('inactive');
 					})
-					.on('-large !large', function() {
+					.on('-medium !medium', function() {
 						$sidebar.removeClass('inactive');
 					});
 
@@ -125,7 +125,7 @@
 					$sidebar.on('click', 'a', function(event) {
 
 						// >large? Bail.
-							if (!skel.breakpoint('large').active)
+							if (!skel.breakpoint('medium').active)
 								return;
 
 						// Vars.
@@ -172,7 +172,7 @@
 					$body.on('click touchend', function(event) {
 
 						// >large? Bail.
-							if (!skel.breakpoint('large').active)
+							if (!skel.breakpoint('medium').active)
 								return;
 
 						// Deactivate.

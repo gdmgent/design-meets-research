@@ -2,7 +2,7 @@
 layout: page
 title: Intro to Human Centered Design (HCD)
 image: assets/images/pic11.jpg
-permalink: intro/
+permalink: methodologie/
 ---
 ## Methodologie 
 (nog te vertalen) The methodology used for this educational innovation and design project equals the methodology that we will implement in our curriculum.  
