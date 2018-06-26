@@ -43,28 +43,28 @@ Hiermee willen we onze studenten opleiden om binnen hun afstudeerrichting en op 
 	</header>
 	<div class="features">
 		<article>
-			<span class="icon fal fa-search"></span>
+			<span class=" fal fa-search"></span>
 			<div class="content">
 				<h3>Discover</h3>
 				<p>Interviews, ...</p>
 			</div>
 		</article>
 		<article>
-			<span class="icon fal fa-gem"></span>
+			<span class=" fal fa-gem"></span>
 			<div class="content">
 				<h3>Define</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
-			<span class="icon fal fa-lightbulb"></span>
+			<span class=" fal fa-lightbulb"></span>
 			<div class="content">
 				<h3>Ideate</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
-			<span class="icon fal fa-rocket"></span>
+			<span class=" fal fa-rocket"></span>
 			<div class="content">
 				<h3>Prototype</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
