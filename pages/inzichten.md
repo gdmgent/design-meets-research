@@ -7,46 +7,34 @@ permalink: inzichten/
 <div class="row 200%">
 <div class="6u 12u$(medium)" markdown="1">
 
-## Empathy maps voor 1e jaar en 2e+3e jaar student
+## Inzichten empathy map eerste jaar
 
-### 1e jaar:
+### Angst
 
-**Angst**
-- Student is "banger" dan we denken:
-- Durven zich niet openstellen voor feedback, zowel concept van feedback als voor de individuele docent.
-- Schrik voor tijdverlies.
-- Angst voor medestudent (zal ideeën pikken)
+Studenten blijken met een aantal angsten te worstelen. Ze hebben nogal wat moeite om zichzelf te overtuigen om om feedback te gaan. Negatieve feedback kan immers extra werk betekenen. Ook komen sommige docenten (ongewild) nogal intimiderend over. Tenslotte hebben studenten de neiging hun werk af te schermen uit schrik dat een medestudent een idee zou gaan overnemen. 
 
-**GDM is streng**
-- Laag zelfvertrouwen
-- Onwetendheid 
-- Moeilijk ik te schatten hoe lang en hoeveel voorstudies te maken
-- Student is veel bezig met studierendement en behalen van 10/20. Is dat wel relevant voor mij? Dat is toch niet relevant voor CMO/GMB/MMP …
+### GDM zou streng zijn
 
-Creativiteit
-Moeilijk om vinger te leggen op wat creativiteit is.
-Creativiteit wordt pas gezien na relevante en positieve feedback.
-Creativiteit is van de CMO'ers
-Student speelt op safe, durft geen zotte ideeën uit te werken, beste idee komt pas achteraf.
-Te veel "druk" om creatief te zijn
-Niet-creatieve omgeving (Mariakerke, A-blok)
-Feedback
-Is zowel stimulerend, demotiverend en in de eerste plaatst intimiderend om te vragen.
-Alle feedback is welkom
-Student wil meer bevestiging.
-Relevantie
-Relevantie van lessen, theorie en practicum is zéér belangrijk.
-Lessen niet leuk door de manier waarop ze gegeven worden.
-Zelf theorieles kan leuk zijn als ze maar relevant is.
-Component docent is hierbij héél belangrijk.
-Briefings zijn niet echt, geen echte opdrachten, geen echte technieken
-Locatie campus 
-Communicatie en golflengte met docenten/ Opdrachten
-Opdracht niet duidelijk gecommuniceerd door miscommunicatie tussen docenten.
-Docenten spreken elkaar tegen.
+Een deel van de studentenpopulatie worstelt met een laag zelfvertrouwen. Dit komt vooral omdat er nogal wat onwetendheid heerst. Sommige studenten getuigen dat ze moeite hebben om in te schatten hoeveel studiewerk ze in bepaalde opdrachten moeten steken. Hoe realistischer een opdracht is en hoe relevanter voor hen, hoe liever ze deze gaan uitvoeren. Voor de minder relevante opdrachten gaan veel studenten slechts mikken op het behalen van een voldoende. Wat als relevant ervaren wordt verschilt per afstudeerrichting (CMO, GMB, MMP)
+
+### Creativiteit
+
+Studenten hebben het moeilijk om de vinger te leggen op wat creativiteit nu precies is. Een (visuele)oplossing van een vraag wordt pas als creatief bestempeld na positieve feedback. Ook wordt creativiteit door MMP en GMB beschouwd als het exclusieve werkterrein van de CMO'ers. Een gemiddelde student speelt vaak op safe en durft geen al te gekke of innoverende ideeën uit te werken. Falen is nuttig en betekent in vele gevallen een waardevol leermoment, maar het houdt vaak ook tijdverlies in. Dat is een probleem want voor veel studenten is tijd een schaars goed. 
+
+Tenslotte: de omgeving waarin gewerkt moet worden speelt een belangrijke rol bij het tot stand komen van creatieve output. 
+
+### Feedback
+
+Feedback kan zowel stimulerend als demotiverend werken en uit eigen beweging feedback vragen is voor vele studenten een hele opgave. Wat de student in de eerste plaats uit feedback wil halen is bevestiging. 
 
 
+### Relevantie
 
+Relevatie wordt ervaren als het criterium bij uitstek waarmee betrokkenheid met de leerstof kan opgewekt worden bij de student. Dit geldt zowel voor theorie als practicum lessen. Realistische opdrachten, waarbij hedendaagse technieken mogen worden ingezet bij de uitwerking scoren het best. Ook de manier waarop lessen gegeven worden heeft een grote impact. Wat als een 'saaier' OLOD bekend staat kan toch op enthousiasme rekenen wanneer het op een relevante manier gebracht wordt door een deskundige docent.   
+
+
+### Communicatie met docenten
+Als meerdere docenten een groep begeleiden is het belangrijk dat afspraken met studenten in overleg met iedereen gebeuren. 
 
 </div>
 <div class="6u$ 12u$(medium)">

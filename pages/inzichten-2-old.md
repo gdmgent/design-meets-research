@@ -7,7 +7,7 @@ permalink: inzichten-2/
 <div class="row 200%">
 <div class="6u 12u$(medium)" markdown="1">
 
-## Inzichten uit empathy map 2de/3de jaar
+## Inzichten empathy map 2de/3de jaar
 
 ### Angst
 - Angst voor feedback is minder maar voelt nog steeds niet goed.
