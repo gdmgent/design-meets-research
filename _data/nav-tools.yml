@@ -1,6 +1,6 @@
 -
   name: Human Centered Design
-  permalink: /methodologie/
+  permalink: /hcd/
 
 -
   name: Discover
@@ -19,5 +19,5 @@
   permalink: /tools-prototype/
 
 -
-  name: Implement
+  name: Implementation
   permalink: /tools-implementation/
