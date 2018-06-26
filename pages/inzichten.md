@@ -3,13 +3,13 @@ layout: page
 title: Inzichten
 permalink: inzichten/
 ---
-##inzichten
+
 <div class="row 200%">
-<div class="6u 12u$(medium)" markdown=1>
+<div class="6u 12u$(medium)" markdown="1">
 
-###Empathy maps voor 1e jaar en 2e+3e jaar student
+## Empathy maps voor 1e jaar en 2e+3e jaar student
 
-####1e jaar:
+### 1e jaar:
 
 **Angst**
 - Student is "banger" dan we denken:
