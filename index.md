@@ -4,57 +4,70 @@ title:
 ---
 
 <!-- Banner -->
-  <section id="banner">
-    <div class="content">
-      <header>
-        <h1>Design meets research</h1>
-        <p>User-centered “Graphic” Design en de nexus onderwijs onderzoek</p>
-      </header>
-      <p>De wereld is momenteel in transitie. Veel nieuwe digitale media zijn bronnen van disruptie die bestaande modellen, structuren en verwachtingspatronen overhoop gooien. Om in die veranderende wereld blijvend betekenisvolle oplossingen voor problemen te kunnen produceren zijn we meer dan ooit genoodzaakt de mens/gebruiker centraal te zetten. 
-        Interdisciplinaire teams ontwerpen vandaag de dag nieuwe producten en diensten op maat van de gebruiker via collaboratieve processen. 
-        Deze “ontwerpmentaliteit” waarbij de gebruiker centraal staat wordt ook wel Design Thinking genoemd. <br/><br/>
-        Design Thinking kan evengoed worden ingezet voor het 'ontwerpen' van onderwijsprocessen waarbij de leerbehoeften en verwerking van de eindgebruiker, in dit geval de studenten, centraal staan.
-        Voor GDM is Design Thinking in het bijzonder relevant niet alleen omdat het aansluit bij een nieuwe trend in het werkveld, maar dus ook omdat het kan aangewend worden om creatieve en efficiënte oplossingen te ontwikkelen voor onderwijs, onderzoek en dienstverlening</p>
-      <ul class="actions">
-        <li><a href="intro" class="button big">Learn More</a></li>
-      </ul>
-    </div>
-    <span class="image object">
-      <img src="{{ site.baseurl }}/assets/images/hackathon1.jpg" alt="humancentereddesign" />
-    </span>
-  </section>
+<section id="banner">
+<div class="content">
+<header markdown="1">
+Design meets research
+---------------------
+
+Onderzoek en ontwikkeling van concept voor een onderzoekend curriculum gebaseerd op de “human-centered design” methodologie.
+
+</header>
+	
+<div markdown="1">
+
+Grafische en Digitale Media is een opleiding met focus op het “maken van media”.  
+Dat grafische media visueel aantrekkelijk en esthetisch verzorgd tot zelfs uitmuntend moeten zijn, is met het overaanbod aan communicatie een evidentie. Dat we als opleiding in de industriële wetenschappen en technologie ook de technische en technologische aspecten van mediaproductie ten volle beheersen, is niet meer dan normaal en is zelfs wat onze opleiding onderscheidt van kunst- en communicatieopleidingen.  
+Echter, het technisch correct opleveren van drukklare bestanden voor de meest geavanceerde print productie of de ontwikkeling van volwaardige web toepassingen of technisch hoogstaande interfaces voor allerhande slimme apparaten (IoT) wordt vandaag de dag slechts beschouwd als een “olympisch minimum”. Grafische media die esthetisch of technisch niet correct zijn uitgevoerd, zijn namelijk gedoemd om te verdwijnen in het overaanbod.  
+
+Als hedendaagse communicatie zich wil onderscheiden van de concurrentie dan kan dit door in te spelen op de persoonlijke behoeften en individuele wensen. Mediaproducties moeten dus naast technisch correct en esthetisch hoogstaand vooral “op maat zijn van het publiek, de klant en de eindgebruiker.”
+De sleutel tot succes ligt daarbij in de toepassing van “human-centered design” technieken of het gebruik van de “design thinking” methodologie bij het ontwerp en de ontwikkeling van mediaproducties. 
+
+Dit onderwijsinnovatie project ambieert dan ook om de design thinking methodologie diepgaand te verankeren in onze opleiding om tot een “onderzoekend curriculum” te komen en de nexus onderwijs onderzoek te realiseren. Hiermee willen we onze studenten opleiden om binnen hun afstudeerrichting en op basis van hun specialisatie, mediaprojecten te kunnen ontwikkelen die zowel visueel aantrekkelijk, als technisch correct zijn en bovendien doordachte, onderbouwde antwoorden of oplossingen bieden op de vragen of uitdagingen van klanten en gebruikers. (i.e. evidence based design)
+
+</div>	
+	
+<ul class="actions">
+<li><a href="intro" class="button big">Het onderzoek</a></li>
+</ul>
+
+</div>
+<span class="image object">
+	<img src="{{ site.baseurl }}/assets/images/hackathon1.jpg" alt="humancentereddesign" />
+</span>
+</section>
 
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Jonas heeft dit gedaan \o/</h2>
+		<h2>Human Centered Design Tools</h2>
 	</header>
 	<div class="features">
 		<article>
 			<span class="icon fa-diamond"></span>
 			<div class="content">
-				<h3>Portitor ullamcorper</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Discover</h3>
+				<p>Interviews, ...</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-				<h3>Sapien veroeros</h3>
+				<h3>Define</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-rocket"></span>
 			<div class="content">
-				<h3>Quam lorem ipsum</h3>
+				<h3>Ideate</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-signal"></span>
 			<div class="content">
-				<h3>Sed magna finibus</h3>
+				<h3>Prototype</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
