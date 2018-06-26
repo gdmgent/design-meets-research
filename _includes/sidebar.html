@@ -15,10 +15,9 @@
             <h2>Het onderzoek</h2>
           </header>
 
-          
           <ul>
 {% for nav-item in site.data.nav-research %}
-<li{% if page.url contains nav-item.permalink %} class="active"{% endif %}><a href="{{ nav-item.permalink | absolute_url }}">{{ nav-item.name }}</a></li>
+<li{% if page.url == nav-item.permalink %} class="active"{% endif %}><a href="{{ nav-item.permalink | absolute_url }}">{{ nav-item.name }}</a></li>
 {%- endfor %}    
 
           </ul>
@@ -28,7 +27,7 @@
           </header>
           <ul>
 {% for nav-item in site.data.nav-tools %}
-<li{% if page.url contains nav-item.permalink %} class="active"{% endif %}><a href="{{ nav-item.permalink | absolute_url }}">{{ nav-item.name }}</a></li>
+<li{% if page.url == nav-item.permalink %} class="active"{% endif %}><a href="{{ nav-item.permalink | absolute_url }}">{{ nav-item.name }}</a></li>
 {%- endfor %}     
         </ul>
         </nav>
