@@ -1,19 +1,23 @@
 -
   name: Human Centered Design
-  permalink: /methodologie
+  permalink: /methodologie/
 
 -
   name: Discover
-  permalink: /tools-discover
+  permalink: /tools-discover/
 
 -
   name: Define
-  permalink: /tools-define
+  permalink: /tools-define/
 
 -
   name: Ideate
-  permalink: /tools-ideate
+  permalink: /tools-ideate/
 
 -
   name: Prototype
-  permalink: /tools-prototype
+  permalink: /tools-prototype/
+
+-
+  name: Implement
+  permalink: /tools-implementation/
