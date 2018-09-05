@@ -36,7 +36,7 @@ Hiermee willen we onze studenten opleiden om binnen hun afstudeerrichting en op 
 </span>
 </section>
 
-<!-- Section -->
+<!-- Section 
 <section>
 	<header class="major">
 		<h2>Human Centered Design Tools</h2>
@@ -72,7 +72,7 @@ Hiermee willen we onze studenten opleiden om binnen hun afstudeerrichting en op 
 		</article>
 	</div>
 </section>
-
+-->
 <!-- Section -->
 <!-- <section>
 	<header class="major">
