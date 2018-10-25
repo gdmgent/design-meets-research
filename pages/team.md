@@ -7,7 +7,7 @@ permalink: team/
 <section>
 	<div class="row">
 		<div class="12u$(medium)">
-			<img src="../assets/images/team.jpg" alt="Teamfoto" style="width:100%" />
+			<img src="../assets/images/teamfoto.jpg" alt="Teamfoto" style="width:100%" />
 		</div>
 	</div>
 </section>
