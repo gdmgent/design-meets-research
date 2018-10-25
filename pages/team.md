@@ -33,14 +33,14 @@ permalink: team/
 			<img src="{{ site.baseurl }}/assets/images/stijn-anseeel.jpg" class="profile" alt="Foto: Stijn Anseel" />
 			<div class="content">
 				<h3>Stijn Anseel</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p>Lector en zelfstandig grafisch vormgever met een digitale mindset. Gepassioneerd door vormgeving in de breedste zin van het woord. en haar inzetbaarheid als tool om betekenisvolle oplossingen te kunnen formuleren voor problemen waar mensen in deze pijlsnel evoluerende wereld mee geconfronteerd worden.</p>
 			</div>
 		</article>
 		<article>
 			<img src="{{ site.baseurl }}/assets/images/dieter-de-weirdt.jpg" class="profile" alt="Foto: Dieter De Weirdt" />
 			<div class="content">
 				<h3>Dieter De Weirdt</h3>
-				<p>Lector en zelfstandig grafisch vormgever met een digitale mindset. Gepassioneerd door vormgeving in de breedste zin van het woord. en haar inzetbaarheid als tool om betekenisvolle oplossingen te kunnen formuleren voor problemen waar mensen in deze pijlsnel evoluerende wereld mee geconfronteerd worden.</p>
+				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 	</div>
