@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How might we 2: Angst voor feedback"
-permalink: how-might-we-2-angst-voor-feedback/
+permalink: hmw/how-might-we-2-angst-voor-feedback/
 ---
 
 <div class="row 200%">

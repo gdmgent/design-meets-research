@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How might we 1: Relevantie"
-permalink: how-might-we-1-relevantie/
+permalink: hmw/how-might-we-1-relevantie/
 ---
 
 <div class="row 200%">
