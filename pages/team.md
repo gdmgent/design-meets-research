@@ -4,17 +4,8 @@ title: Het onderzoeksteam
 permalink: team/
 ---
 
-<section>
-	<div class="row">
-		<div class="12u$(medium)">
-			<img src="../assets/images/teamfoto.jpg" alt="Teamfoto" style="width:100%" />
-		</div>
-	</div>
-</section>
-
-<!-- Section -->
-<section>
-	<div class="features">
+<div class="row 200%">
+    <div class="8u 12u$(medium)">
 		<article>
 			<img src="{{ site.baseurl }}/assets/images/dieter-wullaert.jpg" class="profile" alt="Foto: Dieter Wullaert" />
 			<div class="content">
@@ -44,4 +35,5 @@ permalink: team/
 			</div>
 		</article>
 	</div>
-</section>
+	<div class="4u 12u$(small)"><img src="../assets/images/teamfoto.jpg" alt="Teamfoto" style="width:100%" /></div>
+</div>
