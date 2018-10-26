@@ -5,7 +5,7 @@ permalink: team/
 ---
 
 <div class="row 200%">
-    <div class="8u 12u$(medium)">
+    <div class="8u 12u$(medium) features">
 		<article>
 			<img src="{{ site.baseurl }}/assets/images/dieter-wullaert.jpg" class="profile" alt="Foto: Dieter Wullaert" />
 			<div class="content">
