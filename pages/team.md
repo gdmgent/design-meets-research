@@ -20,10 +20,10 @@ permalink: team/
 		</div>
 	</article>
 	<article>
-		<img src="{{ site.baseurl }}/assets/images/stijn-anseeel.jpg" class="profile" alt="Foto: Stijn Anseel" />
+		<img src="{{ site.baseurl }}/assets/images/stijn-anseel.jpg" class="profile" alt="Foto: Stijn Anseel" />
 		<div class="content">
 			<h3>Stijn Anseel</h3>
-			<p>Lector en zelfstandig grafisch vormgever met een digitale mindset. Gepassioneerd door vormgeving, in de breedste zin van het woord, en haar inzetbaarheid als tool om betekenisvolle oplossingen te kunnen formuleren voor problemen waar mensen in deze pijlsnel evoluerende wereld mee geconfronteerd worden.</p>
+			<p>Docent en grafisch vormgever met een digitale mindset. Gepassioneerd door vormgeving als tool om oplossingen te creëren voor nieuwe problemen waar mensen in deze snel  evoluerende wereld mee geconfronteerd worden. </p>
 		</div>
 	</article>
 	<article>
