@@ -17,7 +17,7 @@ permalink: hmw/
 
 <h2 id="content">Overzicht van de 6 vragen</h2>
 
-<div class="row">
+<div class="row hmwoverzicht">
 	<div class="4u 12u$(small)">
 		<h3>1. Hoe kunnen we de relevantie van theorielessen & praktijk opdrachten verhogen?</h3>
 		<p><a class="button" href="how-might-we-1-relevantie/">Bekijk de ideeën</a></p>

@@ -18,3 +18,9 @@
     height: 32px;
     width: 32px;
 }
+@media (min-width:736px) {
+    .hmwoverzicht h3{
+        min-height: 90px;
+        margin-top: 15px;
+    }
+}
