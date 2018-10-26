@@ -15,7 +15,7 @@ permalink: hmw/
     </div>
 </div>
 
-<h2 id="content">Overzicht van de 6 vragen/</h2>
+<h2 id="content">Overzicht van de 6 vragen</h2>
 
 <div class="row">
 	<div class="4u 12u$(small)">

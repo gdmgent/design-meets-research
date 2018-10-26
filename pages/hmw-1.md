@@ -1,14 +1,8 @@
 ---
 layout: page
-title: "How might we 1: Relevantie"
+title: "Hoe kunnen we de relevantie van theorielessen & praktijk opdrachten verhogen?"
 permalink: hmw/how-might-we-1-relevantie/
 ---
-
-<div class="row 200%">
-<div class="12u$(medium)" markdown="1">
-> ## Hoe kunnen we de relevantie van theorielessen & praktijk opdrachten verhogen?
-</div>
-</div>
 
 <div class="row 200%">
 <div class="12u"><hr></div>
@@ -39,7 +33,7 @@ We mikken op:
 1.  Be optimistic
 </div>
 <div class="6u$ 12u$(medium)">
-<a href="http://portfolios.pratt.edu"><img src="../assets/images/hmw-1-behance-pratt.png" alt="Pratt op Behance" style="width:100%" /></a>
+<a href="http://portfolios.pratt.edu"><img src="../../assets/images/hmw-1-behance-pratt.png" alt="Pratt op Behance" style="width:100%" /></a>
 </div>
 <div class="12u"><hr></div>
 </div>
@@ -71,7 +65,7 @@ We mikken op:
 1.  Embrace ambiguity
 </div>
 <div class="6u$ 12u$(medium)">
-<img src="../assets/images/hmw-1-expert.jpg" alt="Ask the expert" style="width:100%" />
+<img src="../../assets/images/hmw-1-expert.jpg" alt="Ask the expert" style="width:100%" />
 </div>
 <div class="12u"><hr></div>
 </div>
@@ -100,6 +94,6 @@ We mikken op:
 1.  Embrace ambiguity
 </div>
 <div class="6u$ 12u$(medium)">
-<img src="../assets/images/hmw-1-realworld.jpg" alt="Real world" style="width:100%" />
+<img src="../../assets/images/hmw-1-realworld.jpg" alt="Real world" style="width:100%" />
 </div>
 </div>
