@@ -20,26 +20,26 @@ permalink: hmw/
 <div class="row hmwoverzicht">
 	<div class="4u 12u$(small)">
 		<h3>1. Hoe kunnen we de relevantie van theorielessen & praktijk opdrachten verhogen?</h3>
-		<p><a class="button" href="how-might-we-1-relevantie/">Bekijk de ideeën</a></p>
+		<!--<p><a class="button" href="how-might-we-1-relevantie/">Bekijk de ideeën</a></p>-->
 	</div>
 	<div class="4u 12u$(small)">
 		<h3>2. Hoe kunnen we de angst voor feedback verlagen?</h3>
-		<p><a class="button" href="how-might-we-2-angst-voor-feedback/">Bekijk de ideeën</a></p>
+		<!--<p><a class="button" href="how-might-we-2-angst-voor-feedback/">Bekijk de ideeën</a></p>-->
 	</div>
 	<div class="4u 12u$(small)">
 		<h3>3. Hoe kunnen we ervoor zorgen dat studenten feedback correct interpreteren?</h3>
-		<p><a class="button" href="#">Bekijk de ideeën</a></p>
+		<!--<p><a class="button" href="#">Bekijk de ideeën</a></p>-->
 	</div>
 	<div class="4u 12u$(small)">
 		<h3>4. Hoe kunnen we “falen” onderdeel maken van het leerproces?</h3>
-		<p><a class="button" href="#">Bekijk de ideeën</a></p>
+		<!--<p><a class="button" href="#">Bekijk de ideeën</a></p>-->
 	</div>
 	<div class="4u 12u$(small)">
 		<h3>5. Hoe kunnen we onderzoek inzetten om creativiteit te verhogen?</h3>
-		<p><a class="button" href="#">Bekijk de ideeën</a></p>
+		<!--<p><a class="button" href="#">Bekijk de ideeën</a></p>-->
 	</div>
 	<div class="4u 12u$(small)">
 		<h3>6. Hoe kunnen we ervoor zorgen dat studenten de lat voor zichzelf hoger leggen?</h3>
-		<p><a class="button" href="#">Bekijk de ideeën</a></p>
+		<!--<p><a class="button" href="#">Bekijk de ideeën</a></p>-->
 	</div>
 </div>
