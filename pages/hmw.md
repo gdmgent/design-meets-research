@@ -1,12 +1,20 @@
 ---
 layout: page
-title: How might we...
+title: Ideeën tot verbetering
 permalink: hmw/
 ---
 
-<h2 id="content">How might we..</h2>
-<p>Uit de verzamelde data synthetiseerden we één of meerdere probleemstellingen. Gebruikte tools om de data te organiseren: empathy maps
-en de ‘gems’ techniek.</p>
+<div class="row 200%">
+    <div class="6u 12u$(medium)">
+    <h2 id="content">How might we..</h2>
+	<p>Uit de verzamelde data synthetiseerden we één of meerdere probleemstellingen. Gebruikte tools om de data te organiseren: empathy maps en de ‘gems’ techniek.</p>
+	<p>Deze specifieke probleemstellingen geven ons dan de kans om ideeën te genereren.</p>
+    </div>
+    <div class="6u$ 12u$(medium)">
+    <img src="{{ site.baseurl }}/assets/images/post-its-glossy.jpg" alt="interview downloads" style="width:100%" />
+    </div>
+</div>
+
 <div class="row">
 	<div class="4u 12u$(small)">
 		<h3>Vraag 1</h3>
